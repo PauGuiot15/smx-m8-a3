@@ -1,4 +1,7 @@
 <?php 
+$db = new mysqli("localhost", "pau", "pau", "Webtasks");
+
+
 echo "<form>";
 echo "<input name='afegir'>";
 echo "<select name='clase'>";
