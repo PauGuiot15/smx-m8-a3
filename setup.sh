@@ -1,0 +1,3 @@
+apt install
+
+mysql -e ""
